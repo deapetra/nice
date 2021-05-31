@@ -1,0 +1,51 @@
+body{
+    color: #293647;
+  }
+
+  .container{
+    margin-bottom: 25px;
+  }
+  
+
+  
+  .bg-fej h1{
+    color: white;
+    font-size: 500%;
+    text-transform: uppercase;
+    text-decoration: underline overline;
+    font-weight: bold;
+  }
+  
+  .bg-fej {
+    background-position: center;
+    background-image:url(./drukletters.jpg);
+    height: 250px;
+    padding-top: 75px;
+  }
+
+  h3{
+    margin: 25px 0px;
+  }
+  
+  
+  .bg-torzs {
+    background-color: #C5C599;
+  }
+  
+
+  a {
+    font-style: italic;
+    font-weight: bold;
+    color: darkblue;
+  }
+  
+  #answ{
+    visibility:hidden;
+  }
+
+  #kalkulalGomb {
+    margin: 20px auto;
+  }
+  
+ 
+  
